@@ -38,7 +38,7 @@ An **IT Staff & Full-Stack Developer** based in Central Java, Indonesia. Passion
 ### 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=radial)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daffa-devidn&layout=compact&theme=radial)
 
 ---
 
